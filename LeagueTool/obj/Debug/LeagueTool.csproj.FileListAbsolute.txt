@@ -1,0 +1,11 @@
+D:\Visual Studio Repos\LeagueTool\LeagueTool\bin\Debug\LeagueTool.exe.config
+D:\Visual Studio Repos\LeagueTool\LeagueTool\bin\Debug\LeagueTool.exe
+D:\Visual Studio Repos\LeagueTool\LeagueTool\bin\Debug\LeagueTool.pdb
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.csproj.AssemblyReference.cache
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.csproj.SuggestedBindingRedirects.cache
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.csproj.CoreCompileInputs.cache
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.exe
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.pdb
+D:\Visual Studio Repos\LeagueTool\LeagueTool\bin\Debug\Newtonsoft.Json.dll
+D:\Visual Studio Repos\LeagueTool\LeagueTool\bin\Debug\Newtonsoft.Json.xml
+D:\Visual Studio Repos\LeagueTool\LeagueTool\obj\Debug\LeagueTool.csproj.CopyComplete
